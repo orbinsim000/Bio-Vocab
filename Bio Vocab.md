@@ -1,6 +1,6 @@
 # Characteristics of life
 ## Cell
->
+>Basic unit of life.
 
 Cells are what every living thing on Earth is made of, and are made up of smaller parts that aren't alive, however a cell is alive.
 
@@ -19,7 +19,7 @@ It depends, there are single celled organisms and there are multi celled organis
 
 
 ## Organism
->
+>Any individual living thing.
 
 Organisms are what cells make up, and are living beings
 
@@ -44,7 +44,7 @@ They grow and develop.
 
 
 ## Response to Environment
->
+>"stimulus": Something that causes a physiological response. (so, response to environment/stimulus would be "having a physiological response to a stimulus")
 
 When an organism changes its behaviour because of a stimulus.
 
@@ -66,7 +66,7 @@ A person sitting down.
 
 
 ## Growth
->
+>(since the textbook doesn't have a definition for this, here's the dictionary definition) The act or process, or a manner of growing.
 
 An organism increasing in size.
 
@@ -82,7 +82,7 @@ No
 
 
 ## Development
->
+>(since development is also not listed in the textbook, here's a dictionary definition) The act or process of developing.
 
 An organism permanently changing the way it works and processes information.
 
@@ -104,9 +104,9 @@ A tree growing ever so slowly.
 
 
 ## Metabolism
->
+>All chemical processes that synthesize or break down materials within an organism.
 
-Obtaining energy from cellular respiration.
+The process of obtaining energy from food/fuel.
 
 ![alt text](metabolism.jfif "metabolism")
 
@@ -120,7 +120,7 @@ No, homeostasis is not connected to metabolism.
 
 
 ## Reproduction
->
+>(once again, the textbook doesn't have a definition, so here's another dictionary definition) The natural process among organisms by which new individuals are generated and the species perpetuated(biology definition).
 
 The creation of new organisms through cell division or transfer of sperm to eggs.
 
@@ -142,7 +142,7 @@ Adopting a child.
 
 
 ## Homeostasis
->
+>Regulation and maintenance of constant internal conditions in an organism.
 
 Maintaining suitable conditions inside an organism for it to live properly.
 
