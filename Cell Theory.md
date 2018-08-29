@@ -14,7 +14,7 @@ Cell theory contains everything known about cells.
 ![alt text](opencircle.png "opencircle")
 Cell theory doesn't contain everything known about cells, in fact all of it is incorrect.
 
-![alt text](opencircle.png "closedcircle")
+![alt text](closedcircle.png "closedcircle")
 Cell theory doesn't contain everything known about cells, but is mostly true from what we know.
 
 ![alt text](opencircle.png "opencircle")
@@ -32,7 +32,7 @@ A cell without a nucleus.
 ![alt text](opencircle.png "opencircle")
 Yes
 
-![alt text](opencircle.png "closedcircle")
+![alt text](closedcircle.png "closedcircle")
 No
 
 ## Eukaryote
@@ -50,7 +50,7 @@ No, they must reproduce sexually.
 ![alt text](opencircle.png "closedcircle")
 They can, by splitting the nucleus in two and splitting itself in half.
 
-![alt text](closedcircle.png "opencircle")
+![alt text](closedcircle.png "closedcircle")
 They can, by forming another one of itself out of thin air.
 
 ![alt text](opencircle.png "opencircle")
