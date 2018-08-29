@@ -17,7 +17,7 @@ Cell theory doesn't contain everything known about cells, in fact all of it is i
 ![alt text](opencircle.png "closedcircle")
 Cell theory doesn't contain everything known about cells, but is mostly true from what we know.
 
-![alt text](opencircle.png "opencircle
+![alt text](opencircle.png "opencircle")
 Cell theory is a myth.
 
 ##Prokaryote
@@ -50,7 +50,7 @@ No, they must reproduce sexually.
 ![alt text](opencircle.png "closedcircle")
 They can, by splitting the nucleus in two and splitting itself in half.
 
-![alt text](opencircle.png "opencircle")
+![alt text](closedcircle.png "opencircle")
 They can, by forming another one of itself out of thin air.
 
 ![alt text](opencircle.png "opencircle")
