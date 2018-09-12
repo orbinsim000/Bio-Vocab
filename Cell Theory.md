@@ -1,4 +1,4 @@
-# Characteristics of Life
+# Cell Theory
 ## Cell Theory
 >Theory that states that all organisms are made of cells, all cells are produced by other living cells, and the cell is the most basic unit of life.
 
