@@ -238,7 +238,7 @@ The building of a substance in water.
 
 When a substance losed a water molecule during synthesis.
 
-![alt text](dehydration_synthesis.jpeg "dehydration synthesis")
+![alt text](dehydration_synthesis.jpg "dehydration synthesis")
 
 **What is dehydration synthesis?**
 
