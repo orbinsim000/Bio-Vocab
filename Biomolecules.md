@@ -82,7 +82,7 @@ DNA
 
 A fuel-containing macromolecule, contains saccharides and lipids.
 
-![alt text](carbohydrate.jpeg "carbohydrate")
+![alt text](carbohydrate.jpg "carbohydrate")
 
 **Which food does NOT contain carbohydrates?**
 
@@ -103,7 +103,7 @@ Beef
 
 A carbohydrate that stores energy.
 
-![alt text](lipid.jpeg "lipid")
+![alt text](lipid.jpg "lipid")
 
 **Are lipids the same as carbohydrates? True or false.**
 
@@ -139,7 +139,7 @@ Nucleic Acid
 
 An organic molecule containing information/instructions to create cells.
 
-![alt text](dna.jpeg "dna")
+![alt text](dna.jpg "dna")
 
 **Which is true of nucleic acids?**
 
@@ -160,7 +160,7 @@ They create energy.
 
 A single molecule in a polymer of multiple of that molecule.
 
-![alt text](monomer.jpeg "monomer")
+![alt text](monomer.jpg "monomer")
 
 **Which one is a monomer?**
 
@@ -181,7 +181,7 @@ A carbohydrate.
 
 Several monomers in a string.
 
-![alt text](polymer.jpeg "polymer")
+![alt text](polymer.jpg "polymer")
 
 **Are polymers a macromolecule? True or false.**
 
@@ -196,7 +196,7 @@ False
 
 Sugar
 
-![alt text](sugar.jpeg "sugar")
+![alt text](sugar.jpg "sugar")
 
 **Which one does NOT contain sugar?**
 
