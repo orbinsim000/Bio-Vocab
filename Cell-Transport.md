@@ -158,7 +158,7 @@ The movement of particles to lower concentration.
 
 
 
-![alt text](example.jeff "example")
+![alt text](active_transport.jpg "active transport")
 
 **Question?**
 
