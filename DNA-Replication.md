@@ -83,26 +83,26 @@ rRNA.
 >The fundamental, physical, and functional unit of heredity
 
 A series of nucleotides on DNA
-![alt text](example.jeff "example")
+![alt text](gene.png "gene")
 
-**question?**
+**Where are genes located?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+In DNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Inside codons
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+In RNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+In the ribosome
 
 ## Chromosome
->dictionary/textbook definition
+>A structure within the cell that bears the genetic material as a threadlike linear strand of DNA bonded to various proteins in the nucleus of eukaryotic cells.
 
-my definition
+A long, continuous string of DNA that can be compacted and tightly packed for mitosis.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -120,9 +120,9 @@ option
 option
 
 ## Genome
->dictionary/textbook definition
+>The complete set of genetic material in an organism.
 
-my definition
+Every single piece of genetic information in an organism.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -140,9 +140,9 @@ option
 option
 
 ## Replication
->dictionary/textbook definition
+>The process of duplicating or producing an exact copy of a polynucleotide strand such as DNA.
 
-my definition
+Creating an exact copy of the original material, such as DNA.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -160,9 +160,9 @@ option
 option
 
 ## Helicase
->dictionary/textbook definition
+>An enzyme that utilizes energy from nucleoside triphosphate hydrolysis in order to unwind the two annealed nucleic acid strands.
 
-my definition
+The enzyme responsible for "unzipping" DNA during DNA replication.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -180,9 +180,9 @@ option
 option
 
 ## Primase
->dictionary/textbook definition
+>The enzyme that polymerises nucleotide triphosphates to form oligoribonucleotides in a 5' to 3' direction.
 
-my definition
+The guiding enzyme for DNA polymerase.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -200,9 +200,9 @@ option
 option
 
 ## DNA Polymerase
->dictionary/textbook definition
+>An enzyme assisting in DNA replication.
 
-my definition
+The enzyme that builds new DNA during DNA replication.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -220,9 +220,9 @@ option
 option
 
 ## Ligase
->dictionary/textbook definition
+>An enzyme that catalyzes the binding of two molecules.
 
-my definition
+The enzyme responsible for fixing okazaki fragments.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -260,9 +260,9 @@ option
 option
 
 ## Leading Strand
->dictionary/textbook definition
+>The dna strand that is synthesised continuously during replication.
 
-my definition
+The strand of DNA that goes in the 5' to 3' direction.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -280,9 +280,9 @@ option
 option
 
 ## Lagging Strand
->dictionary/textbook definition
+>The dna strand that is replicated discontinuously from the 5' to the 3' direction.
 
-my definition
+The strand of DNA that goes in the 3' to 5' direction.
 ![alt text](example.jeff "example")
 
 **question?**
@@ -300,9 +300,9 @@ option
 option
 
 ## Okazaki Fragment
->dictionary/textbook definition
+>Relatively short fragment of DNA synthesized on the lagging strand during DNA replication.
 
-my definition
+A small fragment of DNA created on the lagging strand during DNA replication.
 ![alt text](example.jeff "example")
 
 **question?**
