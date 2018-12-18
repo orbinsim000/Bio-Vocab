@@ -103,49 +103,49 @@ In the ribosome
 >A structure within the cell that bears the genetic material as a threadlike linear strand of DNA bonded to various proteins in the nucleus of eukaryotic cells.
 
 A long, continuous string of DNA that can be compacted and tightly packed for mitosis.
-![alt text](example.jeff "example")
+![alt text](chromosome.svg "chromosome")
 
-**question?**
+**What is a chromosome made of?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+RNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Cells
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+DNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Okazaki fragments
 
 ## Genome
 >The complete set of genetic material in an organism.
 
 Every single piece of genetic information in an organism.
-![alt text](example.jeff "example")
+![alt text](genome.png "genome")
 
-**question?**
+**What is a genome?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Three nucleotides in a row.
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+A small sequence of codons.
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+A bundle of tightly packed DNA.
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+The full collection of genetic information in an organism.
 
 ## Replication
 >The process of duplicating or producing an exact copy of a polynucleotide strand such as DNA.
 
-Creating an exact copy of the original material, such as DNA.
-![alt text](example.jeff "example")
+Creating an exact copy of an original material, such as DNA.
+![alt text](replication.png "replication")
 
-**question?**
+**What occurs during DNA replication?**
 
 ![alt text](open/closedcircle.png "open/closedcircle")
 option
@@ -163,7 +163,7 @@ option
 >An enzyme that utilizes energy from nucleoside triphosphate hydrolysis in order to unwind the two annealed nucleic acid strands.
 
 The enzyme responsible for "unzipping" DNA during DNA replication.
-![alt text](example.jeff "example")
+![alt text](helicase.png "helicase")
 
 **question?**
 
@@ -183,7 +183,7 @@ option
 >The enzyme that polymerises nucleotide triphosphates to form oligoribonucleotides in a 5' to 3' direction.
 
 The guiding enzyme for DNA polymerase.
-![alt text](example.jeff "example")
+![alt text](primase.png "primase")
 
 **question?**
 
@@ -203,7 +203,7 @@ option
 >An enzyme assisting in DNA replication.
 
 The enzyme that builds new DNA during DNA replication.
-![alt text](example.jeff "example")
+![alt text](dnapolymerase.jpg "DNA polymerase")
 
 **question?**
 
@@ -223,7 +223,7 @@ option
 >An enzyme that catalyzes the binding of two molecules.
 
 The enzyme responsible for fixing okazaki fragments.
-![alt text](example.jeff "example")
+![alt text](ligase.png "ligase")
 
 **question?**
 
@@ -243,7 +243,7 @@ option
 >dictionary/textbook definition
 
 my definition
-![alt text](example.jeff "example")
+![alt text](rnaprimer.jpg "RNA primer")
 
 **question?**
 
@@ -263,7 +263,7 @@ option
 >The dna strand that is synthesised continuously during replication.
 
 The strand of DNA that goes in the 5' to 3' direction.
-![alt text](example.jeff "example")
+![alt text](leadingstrand.jpg "leading strand")
 
 **question?**
 
@@ -283,7 +283,7 @@ option
 >The dna strand that is replicated discontinuously from the 5' to the 3' direction.
 
 The strand of DNA that goes in the 3' to 5' direction.
-![alt text](example.jeff "example")
+![alt text](laggingstrand.png "lagging strand")
 
 **question?**
 
@@ -303,7 +303,7 @@ option
 >Relatively short fragment of DNA synthesized on the lagging strand during DNA replication.
 
 A small fragment of DNA created on the lagging strand during DNA replication.
-![alt text](example.jeff "example")
+![alt text](okazakifragment.png "okazaki fragment")
 
 **question?**
 
@@ -323,7 +323,7 @@ option
 >dictionary/textbook definition
 
 my definition
-![alt text](example.jeff "example")
+![alt text](semiconservativemodel.png "semi-conservative model")
 
 **question?**
 
