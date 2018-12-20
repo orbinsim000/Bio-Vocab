@@ -147,17 +147,17 @@ Creating an exact copy of an original material, such as DNA.
 
 **What occurs during DNA replication?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The splitting of the nucleus
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closedcircle")
+The complete replication of the genome using the semi-conservative model
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The forming of new DNA from amino acids
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The formation of new DNA from nothing
 
 ## Helicase
 >An enzyme that utilizes energy from nucleoside triphosphate hydrolysis in order to unwind the two annealed nucleic acid strands.
@@ -165,19 +165,19 @@ option
 The enzyme responsible for "unzipping" DNA during DNA replication.
 ![alt text](helicase.png "helicase")
 
-**question?**
+**What does the helicase do?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+Unzip the DNA during DNA replication
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Unzip the RNA during mitosis
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Help the DNA polymerase by telling it where to go
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Unzip the amino acids
 
 ## Primase
 >The enzyme that polymerises nucleotide triphosphates to form oligoribonucleotides in a 5' to 3' direction.
@@ -185,19 +185,19 @@ option
 The guiding enzyme for DNA polymerase.
 ![alt text](primase.png "primase")
 
-**question?**
+**What does a primase do?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Build new DNA strands
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Unzip the DNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+Guide the DNA polymerase
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Place down okazaki fragments
 
 ## DNA Polymerase
 >An enzyme assisting in DNA replication.
@@ -205,19 +205,19 @@ option
 The enzyme that builds new DNA during DNA replication.
 ![alt text](dnapolymerase.jpg "DNA polymerase")
 
-**question?**
+**What does the DNA polymerase do?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+Place nucleotides to build new DNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Places okazaki fragments
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Unzips the DNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Destroys the DNA
 
 ## Ligase
 >An enzyme that catalyzes the binding of two molecules.
@@ -225,39 +225,39 @@ option
 The enzyme responsible for fixing okazaki fragments.
 ![alt text](ligase.png "ligase")
 
-**question?**
+**What does the ligase do?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Guide the DNA polymerase
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Build new DNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Place okazqaki fragments on the leading strand
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+Place okazaki fragments on the lagging strand
 
 ## RNA Primer
->dictionary/textbook definition
+>A short nucleic acid sequence that provides a starting point for DNA synthesis.
 
-my definition
+The starting point that a DNA polymerase follows
 ![alt text](rnaprimer.jpg "RNA primer")
 
-**question?**
+**What does an RNA primer do?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Unzips the DNA
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Creat okazaki fragments
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Glue together the lagging strand
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+Tells the DNA polymerase where to start
 
 ## Leading Strand
 >The dna strand that is synthesised continuously during replication.
@@ -265,19 +265,19 @@ option
 The strand of DNA that goes in the 5' to 3' direction.
 ![alt text](leadingstrand.jpg "leading strand")
 
-**question?**
+**What direction does the leading strand go?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The leading strand has no direction
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+The 5' to 3' direction
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The 3' to 5' direction
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The 5' to 4' direction
 
 ## Lagging Strand
 >The dna strand that is replicated discontinuously from the 5' to the 3' direction.
@@ -285,19 +285,19 @@ option
 The strand of DNA that goes in the 3' to 5' direction.
 ![alt text](laggingstrand.png "lagging strand")
 
-**question?**
+**What direction does the lagging strand go in?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The lagging strand has no direction
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+The 3' to 5' direction
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The 5' to 3' direction
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The 1' to 9' direction
 
 ## Okazaki Fragment
 >Relatively short fragment of DNA synthesized on the lagging strand during DNA replication.
@@ -305,36 +305,36 @@ option
 A small fragment of DNA created on the lagging strand during DNA replication.
 ![alt text](okazakifragment.png "okazaki fragment")
 
-**question?**
+**Which strand are okazaki fragments found on?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+The lagging strand
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The leading strand
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The right strand
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+Okazaki fragments are not found on any strand
 
 ## Semi-Conservative Model
->dictionary/textbook definition
+>Relating to or being genetic replication in which a double-stranded molecule of nucleic acid separates into two single strands each of which serves as a template for the formation of a complementary strand that together with the template forms a complete molecule.
 
-my definition
+The model that DNA replication follows
 ![alt text](semiconservativemodel.png "semi-conservative model")
 
-**question?**
+**What model does DNA replication follow?**
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+DNA replication follows no model
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The conservative model
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](opencircle.png "open circle")
+The dispersive model
 
-![alt text](open/closedcircle.png "open/closedcircle")
-option
+![alt text](closedcircle.png "closed circle")
+The semi-conservative model
